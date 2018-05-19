@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PicModelStoreContainer" CdmEntityContainer="Pic1Entities">
+    <EntitySetMapping Name="image_data">
+      <EntityTypeMapping TypeName="PicModel.image_data">
+        <MappingFragment StoreEntitySet="image_data">
+          <ScalarProperty Name="image_id" ColumnName="image_id" />
+          <ScalarProperty Name="filename" ColumnName="filename" />
+          <ScalarProperty Name="image" ColumnName="image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

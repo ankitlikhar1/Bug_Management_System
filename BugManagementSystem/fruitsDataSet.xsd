@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fruitsDataSet" targetNamespace="http://tempuri.org/fruitsDataSet.xsd" xmlns:mstns="http://tempuri.org/fruitsDataSet.xsd" xmlns="http://tempuri.org/fruitsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="fruitsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="fruitsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BugManagementSystem.Properties.Settings.GlobalReference.Default.fruitsConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="fruitTableAdapter" GeneratorDataComponentClassName="fruitTableAdapter" Name="fruit" UserDataComponentName="fruitTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="fruitsConnectionString (Settings)" DbObjectName="fruits.fruit" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Fruit_ID`, `Fruit_Name`, `Vitamin`, `Fruit_Rate` FROM `fruit`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="fruitsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="fruitsDataSet" msprop:Generator_UserDSName="fruitsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="fruit" msprop:Generator_TableClassName="fruitDataTable" msprop:Generator_TableVarName="tablefruit" msprop:Generator_TablePropName="fruit" msprop:Generator_RowDeletingName="fruitRowDeleting" msprop:Generator_RowChangingName="fruitRowChanging" msprop:Generator_RowEvHandlerName="fruitRowChangeEventHandler" msprop:Generator_RowDeletedName="fruitRowDeleted" msprop:Generator_UserTableName="fruit" msprop:Generator_RowChangedName="fruitRowChanged" msprop:Generator_RowEvArgName="fruitRowChangeEvent" msprop:Generator_RowClassName="fruitRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

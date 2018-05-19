@@ -1,0 +1,51 @@
+c:\users\ankit likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.exe
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.exe.config
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Dashboard.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Defect_Report.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.password.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Home.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Login.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.ManageUser.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.progress.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Properties.Resources.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.StatusReport.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.ViewReport.resources
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.exe
+C:\Users\Ankit Likhar\documents\visual studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.pdb
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.pdb
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.AboutSystem.resources
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Project.resources
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.image.resources
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.notify.resources
+C:\Users\Ankit Likhar\Documents\Visual Studio 2013\Projects\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.exe.config
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.exe
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.pdb
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.exe
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\bin\Debug\BugManagementSystem.pdb
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.AboutSystem.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Dashboard.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Defect_Report.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.image.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.password.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Home.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Login.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.ManageUser.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Project.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Properties.Resources.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.StatusReport.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.ViewReport.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Create_Requirement.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Module.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Client.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.csproj.ResolveComReference.cache
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.Requirements_Report.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.View_Requirement.resources
+C:\Users\Ankit Likhar\Desktop\BugManagementSystem\BugManagementSystem\obj\Debug\BugManagementSystem.csprojResolveAssemblyReference.cache
